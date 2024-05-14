@@ -1,0 +1,9 @@
+[submodule "ESP32"]
+	path = ESP32
+	url = https://github.com/MateoCabreraVasquez/RobotAscentoReplica-ESP32.git
+[submodule "Android"]
+	path = Android
+	url = https://github.com/MateoCabreraVasquez/RobotAscentoReplica-Android.git
+[submodule "Simulations"]
+	path = Simulations
+	url = https://github.com/MateoCabreraVasquez/RobotAscentoReplica-Simulations.git
